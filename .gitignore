@@ -1,0 +1,9 @@
+*.exe 
+*.o
+*.gch
+*.layout
+*.dev  
+Makefile.win
+
+//word
+*.DOCX
