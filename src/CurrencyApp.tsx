@@ -21,5 +21,5 @@ export default function CurrencyApp () {
                 <Tab.Screen name="Home" component={HomeScreen} />
             </Tab.Navigator>
         </NavigationContainer>
-    ) 
+    ) //comment
 }
